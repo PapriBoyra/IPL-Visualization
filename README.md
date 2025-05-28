@@ -41,11 +41,6 @@ The project uses two datasets
 - **Virat Kohli** and **Lasith Malinga** stand out as top performers.
 - Toss decisions often influence match outcomes, especially in evening matches.
 
-## 📦 Deliverables
-
-- [`IPL_Dashboard.twbx`](./IPL_Dashboard.twbx): Tableau Packaged Workbook with all dashboards
-- [`IPL_Insights_Presentation.pdf`](./IPL_Insights_Presentation.pdf): Summary presentation with key visual insights
-
 ## 🚀 How to Use
 
 1. Download or clone this repository.
